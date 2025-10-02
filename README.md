@@ -2,18 +2,17 @@
 # Hi, I'm Grégoire André 👋
 
 ## 🏫 About Me
-- Student at 42 School
-- Passionate about coding, problem-solving, and learning new technologies
-- Always experimenting with new projects 🚀
+- Student at 42 School  
+- Beginner in coding, excited to learn and improve 🚀  
+- Passionate about problem-solving and building small projects  
 
 ## 🛠️ Skills
-- Programming: C, Python, JavaScript
-- Tools: Git, GitHub, Linux
-- Learning: Algorithms, AI, Web Development
+- Learning: C, Python, Git, Linux  
+- Focus: Algorithms, Basics of Programming  
 
-## 📫 Contact
-- Email: your.email@example.com
+## 📫 Contact Me
+- Email: [l3sthgithub@gmail.com](mailto:l3sthgithub@gmail.com)
 
 ---
 
-⭐ Feel free to explore my projects!
+⭐ Excited to grow and share my projects here!
